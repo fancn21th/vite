@@ -1,0 +1,16 @@
+{
+  "name": "vite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "fancn21th <fancn21th@aliyun.com> (http://fancn21th.cn/)",
+  "license": "MIT",
+  "dependencies": {
+    "vite": "5.1.4"
+  }
+}
