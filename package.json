@@ -12,5 +12,8 @@
   "license": "MIT",
   "dependencies": {
     "vite": "5.1.4"
+  },
+  "devDependencies": {
+    "@types/css-modules": "1.0.5"
   }
 }
