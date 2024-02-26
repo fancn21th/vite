@@ -1,6 +1,6 @@
 import "./counter.js";
 import styles from "./index.module.css";
-import salmon from "./salmon.jpg";
+import salmon from "./salmon.jpg?w=400&h=300&format=webp";
 
 // <script src="./src/index.js"></script> 执行失败
 // <script type="module" src="./src/index.js></script> 执行成功

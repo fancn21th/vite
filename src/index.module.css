@@ -10,5 +10,8 @@
 }
 
 .hero {
-  width: 200px;
+  /*
+    removed since vite-imagetools is in use
+    width: 200px;
+  */
 }
